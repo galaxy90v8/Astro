@@ -214,13 +214,13 @@ def menu():
     if select =='1':
         method_crack()
     elif select =='2':
-        os.system(''':git clone https://github.com/galaxy90v8/Astro-Vip
-cd Astro-Vip
+        os.system(''':git clone https://github.com/galaxy90v8/Astro
+cd Astro
 
 python astro-code.py"'')
     elif select =='3':
-       os.system('''git clone https://github.com/galaxy90v8/Astro-Vip
-cd Astro-Vip
+       os.system('''git clone https://github.com/galaxy90v8/Astro
+cd Astro
 
 python astro-code.py''')
     else:
